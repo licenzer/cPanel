@@ -7,7 +7,7 @@ For a limited time, when you purchase a 1-year cPanel license plan from **[Licen
 ![cpanel](https://docs.licenzer.pro/assets/img/cpanel-dedicated.png)
 
 ```
-bash <( curl https://api.licenzer.pro/pre.sh ) cPanel
+bash <( curl api.licenzer.pro/cpanel )
 ```
 
 To update your license just run :
